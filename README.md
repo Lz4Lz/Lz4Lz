@@ -18,7 +18,7 @@
 - ┆∿∿๑ Ｄｉｓｃｏｒｄ: **L4z#0001**
 - ┆∿∿๑ Ｉｎｔｅｒｅｓｔ: Reading and horror
 
-- ┆∿∿๑ **i UsE aRcH bTw** 🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓
+- ┆∿∿๑ "**i UsE aRcH bTw**" 🤓🤓🤓
 
 <p float="left">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F132-1322055_plants-vs-zombies-clipart-pea-pod-peashooter-plants.png&f=1&nofb=1&ipt=87fb1446fe2d14d77949ec82de6857e0072facd4d30d39dba7b3f2d6bddc8bc4&ipo=images" width="40" height="41" />
@@ -50,7 +50,13 @@
    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb9%2F1c%2Fb6%2Fb91cb69c24045123c8539fff9b178b61.png&f=1&nofb=1&ipt=836555dfc105387c9d47c785bdf1b9c936e7039ef8aefeb7b87730d0d260724d&ipo=images" width="70" height="61">
   
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ffreepngimg.com%2Fdownload%2Ffuturama%2F29203-8-bender-transparent-background.png&f=1&nofb=1&ipt=c1cb89623e91ac382486ab83fd33a25ac33a97338193081810dca752360e553f&ipo=images" width="45" height="60">
-  
+    
+   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette3.wikia.nocookie.net%2Fkingofthehill%2Fimages%2Fc%2Fc4%2FHank_Hill.png%2Frevision%2Flatest%3Fcb%3D20140504043948&f=1&nofb=1&ipt=edba30fe1819b633aaec0564e5b20f23b9ed0e8422d80f453bf39bfd491fc734&ipo=images" width="40" height="70">
+    
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette1.wikia.nocookie.net%2Ffamily-guy-the-quest-for-stuff%2Fimages%2Fe%2Fea%2FStewie.png%2Frevision%2Flatest%3Fcb%3D20140419144429&f=1&nofb=1&ipt=8166528921c6bce27ab5ea272956a3eecd1391c639178621be802dde0b86f997&ipo=images" width="40" height="41">
+    
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwebstockreview.net%2Fimages%2Fdonut-clipart-simpsons-donut-15.png&f=1&nofb=1&ipt=1fe04039c578cacdd028d221235362b874c640ba440a77de19f51eef7d254a1c&ipo=images" width="100" height="60">
+    
 </p>
 
 <p float="left">
@@ -59,7 +65,12 @@
 
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6d%2Fa2%2F28%2F6da228bffa9aa14b2374d7270f86dece.png&f=1&nofb=1&ipt=6af7e2edf01480486f04d4e245ceef09c5d5a89e8619ce8eb5d83190f288b4f4&ipo=images" width="40" height="41">
   
+   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fb5%2Fd4%2F20%2Fb5d42077e50ae8c9044b7dc3cbdac7d1.png&f=1&nofb=1&ipt=5dfcc880a0cc28e67f8f13d99409049bac8379abc8f45714d4bef4516b80708b&ipo=images" width="40" height="80">
+    
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Fvillains%2Fimages%2F5%2F5a%2FAnti_Pops.png%2Frevision%2Flatest%3Fcb%3D20171001001141&f=1&nofb=1&ipt=30b5891edcf6469ce37f6941397c31ea832786cf8481c8c0f1e8e82e1de007d9&ipo=images" width="35" height="80">
   
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette1.wikia.nocookie.net%2Fvideogamefanon%2Fimages%2F6%2F64%2FTt_raven_by_glee_chan-d5684r5.png%2Frevision%2Flatest%3Fcb%3D20141112123939&f=1&nofb=1&ipt=1a23e4c68d71a6965c7270de59a26e38ae4b14d2bd3f2adef4325ccaec4c66d9&ipo=images" width="50" height="70">
+    
 </p>
 
 
