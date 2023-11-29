@@ -1,6 +1,6 @@
 
 <h1 align="center">≫ ʟ𝟺ᴢ ≪</h1>
-<h3 align="center">|𓆩꒷꒦꒷꒦꒷꒦𓍊𓋼𓍊𓋼𓍊꒷꒦꒷꒦꒷꒦◬꒦꒷꒦꒷꒦꒷⌵꒷꒦꒷｡꒷꒦⁶⁶⁶꒷꒦꒷꒦꒷⁶⁶⁶꒦꒷｡꒷꒦꒷꒦꒷ᨒ꒷꒦꒷꒦꒷꒦꒷◬꒷꒦꒷꒦꒷꒦꒷𓍊𓋼𓍊𓋼𓍊꒦꒷꒦꒷꒦𓆪|
+<h3 align="center">|𓆩꒷꒦꒷꒦꒷꒦𓍊𓋼𓍊𓋼𓍊꒷꒦꒷꒦꒷꒦◬꒦꒷꒦꒷꒦꒷⌵꒷꒦꒷｡꒷꒦L꒷꒦꒷꒦꒷4꒦꒷｡꒷꒦꒷꒦꒷ᨒ꒷꒦꒷꒦꒷꒦꒷◬꒷꒦꒷꒦꒷꒦꒷𓍊𓋼𓍊𓋼𓍊꒦꒷꒦꒷꒦𓆪|
 </h3>
 <p></p>
 <div id="image" align="center">
@@ -15,10 +15,10 @@
 
 </p>
  
-- ┆∿∿๑ Ｄｉｓｃｏｒｄ: **L4z#0001**
-- ┆∿∿๑ Ｉｎｔｅｒｅｓｔ: Reading and horror
+- ┆∿∿๑ Ｄｉｓｃｏｒｄ: **L4z**
+- ┆∿∿๑ Ｉｎｔｅｒｅｓｔ: you wonder
 
-- ┆∿∿๑ "**i UsE aRcH bTw**" 🤓🤓🤓
+- ┆∿∿๑ "**idk**" 🤓🤓🤓
 
 <p float="left">
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F132-1322055_plants-vs-zombies-clipart-pea-pod-peashooter-plants.png&f=1&nofb=1&ipt=87fb1446fe2d14d77949ec82de6857e0072facd4d30d39dba7b3f2d6bddc8bc4&ipo=images" width="40" height="41" />
@@ -121,8 +121,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> 
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> ASM </p> 
 
 
   <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimg3.wikia.nocookie.net%2F__cb20120729225549%2Fadventuretimewithfinnandjake%2Fimages%2F0%2F07%2FWaving_Snail.png&f=1&nofb=1&ipt=a2120f05b13762022aa280be4e252ea85df4751e53b423d5f33e4eaaddbb2a0c&ipo=images" width="40" height="41" >
 
+boom idk, only part thats serious is the last part^^
